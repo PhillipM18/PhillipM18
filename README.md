@@ -1,7 +1,10 @@
-<h2>Currently listening 🎧</h2>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Scottz18&label=Profile views&color=blueviolet&style=plastic" alt="Scottz" /> </p>
+
+<h2>Spotify Playing 🎧</h2>
 <p align='center'>
   <a target="_blank" href="https://spotify-readme-eyxege6bsa-lm.a.run.app/?background_color=0d1117&border_color=ffffff"> 
-    <img src="https://spotify-readme-eyxege6bsa-lm.a.run.app/?background_color=0d1117&border_color=324ab2" />
+    <img src="https://spotify-readme-eyxege6bsa-lm.a.run.app/?background_color=0d1117&border_color=7723DF" />
   </a>
 </p>
   
@@ -33,12 +36,12 @@
 
   <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Scottz18&show_icons=true&theme=tokyonight&border_color=324ab2" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Scottz18&show_icons=true&theme=tokyonight&border_color=7723DF" 
          width="49%" alt="My GitHub Stats were once here..." />
   </a>
   <!-- Github Streak -->
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=GalexY727&theme=tokyonight&mode=daily&border=324ab2" 
+    <img src="https://streak-stats.demolab.com?user=Scottz18&theme=tokyonight&mode=daily&border=7723DF" 
          width="49%" alt="My GitHub Streak was once here..." />
   </a>
    
@@ -95,6 +98,3 @@
   </a>  
 
 </details> 
-  
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=Scottz18&label=Total Visitors&color=0e75b6&style=flat" alt="Scottz" /> </p>
