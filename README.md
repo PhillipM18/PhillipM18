@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 <hr>
 
@@ -18,7 +18,7 @@
 # 👑 Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Scottz18&include_all_commits=true&count_private=true&show_icons=true&custom_title=Scottz18%20Github%20Stats&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Scottz18&include_all_commits=true&count_private=true&show_icons=true&custom_title=Scottz18%20Stats&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats">
 </p>
 
 <hr>
