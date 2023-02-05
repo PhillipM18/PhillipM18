@@ -48,4 +48,4 @@
   <img alt="Scottz18 Youtube" width="100" src="https://cdn-icons-png.flaticon.com/128/187/187209.png" />
 </a>
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=Scottz18&label=T%E1%BB%95ng%20Ng%C6%B0%E1%BB%9Di%20Tham%20Quan&color=0e75b6&style=flat" alt="Scottz" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Scottz18&label=Total Visitors&color=0e75b6&style=flat" alt="Scottz" /> </p>
