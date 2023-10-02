@@ -3,9 +3,9 @@
 
 <h2>Spotify Playing 🎧</h2>
 <p align='center'>
-  <a target="_blank" href="https://spotify-readme-eyxege6bsa-lm.a.run.app/?background_color=0d1117&border_color=ffffff"> 
-    <img src="https://spotify-readme-eyxege6bsa-lm.a.run.app/?background_color=0d1117&border_color=7723DF" />
-  </a>
+   <a target="_blank" href="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)"> 
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)" /> 
+  </a> 
 </p>
   
   <!-- Typing SVG -->
