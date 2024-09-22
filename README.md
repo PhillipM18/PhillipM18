@@ -1,5 +1,5 @@
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=PhillipM18&label=Profile views&color=blueviolet&style=plastic" alt="Redd" /> </p>
+<img src="(https://komarev.com/ghpvc/?username=PhillipM18&label=Profile+views&color=blueviolet&style=plastic)" alt="Redd" /> </p>
 
 <h2>Spotify Playing 🎧</h2>
 <p align='center'>
@@ -20,18 +20,6 @@
 <summary><h2>🔥 Stats</h2></summary>
 <p align="center">
 
-  <!-- Spotify -->
-  <!-- <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2" taret="_blank" rel="noopener noreferrer">
-    <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
-         alt="I love Spotify!"/>
-  </a> -->
-  <!--
-  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=GalexY727&theme=tokyonight&mode=daily&border=DD2BC7" 
-         width="43%" alt="Github Streak" />
-  </a>
-  -->
-
   <br>
 
   <!-- Github Stats -->
@@ -45,15 +33,6 @@
          width="49%" alt="My GitHub Streak was once here..." />
   </a>
    
-
-
-  <!-- Most Used Langs -->
-  <!--
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&layout=compact&theme=tokyonight&border_color=DD2BC7" 
-         width="33%" alt="Favorite Languages" />
-  </a> -->
   
   <br>
   <!--Achievments-->
