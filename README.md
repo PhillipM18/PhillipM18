@@ -1,5 +1,3 @@
-<p align="right">
-<img src="(https://komarev.com/ghpvc/?username=PhillipM18&label=Profile+views&color=blueviolet&style=plastic)" alt="Redd" /> </p>
 
 <h2>Spotify Playing 🎧</h2>
 <p align='center'>
@@ -7,11 +5,10 @@
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)" /> 
   </a> 
 </p>
-  
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Marthel&size=30&pause=1000&color=4128F7&center=true&vCenter=true&width=870&height=100&lines=My+name+is+Scott%F0%9F%91%8B;I+am+learning+Java%2C+JavaScript%2C+and+Pyhton+%F0%9F%90%8D;What+ever+you+are%2C+be+a+good+one.;It+was+nice+meeting+you.++See+you+later!" alt="Typing SVG" /></a>
-  
+    
 </div>
 
 <hr>
