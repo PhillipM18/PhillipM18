@@ -1,6 +1,3 @@
-<p align="right">
-<img src="(https://komarev.com/ghpvc/?username=PhillipM18&label=Profile+views&color=blueviolet&style=plastic)" alt="Redd" /> </p>
-
 <h2>Spotify Playing 🎧</h2>
 <p align='center'>
    <a target="_blank" href="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)"> 
