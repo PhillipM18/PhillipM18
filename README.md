@@ -1,10 +1,14 @@
 
 <h2>Spotify Playing 🎧</h2>
-<p align='center'>
+
+&nbsp;<p align="center">
+  [![Spotify](https://spotify-playing-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)
+</p>
+<!--<p align='center'>
    <a target="_blank" href="https://spotify-playing-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)"> 
     <img src="https://spotify-playing-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)" /> 
   </a> 
-</p>
+</p>-->
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Underdog&pause=1000&color=1DF7ED&width=435&lines=My+name+is+Redd.;What+ever+you+are+be+a+good+one." alt="Typing SVG" /></a>
