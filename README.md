@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PhillipM18&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
 
 <h2>Spotify Playing 🎧</h2>
 
