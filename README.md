@@ -11,6 +11,7 @@
   </a> 
 </p>-->
   <!-- My Discord Account -->
+  <div align="center">
   <a href="https://discord.com/users/652858731209424897" target="_blank">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-2/652858731209424897.png" /></a>
     
