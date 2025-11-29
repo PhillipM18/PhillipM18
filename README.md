@@ -10,9 +10,9 @@
     <img src="https://spotify-playing-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)" /> 
   </a> 
 </p>-->
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Underdog&pause=1000&color=1DF7ED&width=435&lines=My+name+is+Redd.;What+ever+you+are+be+a+good+one." alt="Typing SVG" /></a>
+  <!-- My Discord Account -->
+  <a href="https://discord.com/users/652858731209424897" target="_blank">
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-2/652858731209424897.png" /></a>
     
 </div>
 
