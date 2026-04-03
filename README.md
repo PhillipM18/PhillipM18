@@ -3,7 +3,7 @@
 <h2>Spotify Playing 🎧</h2>
 
 &nbsp;<p align="center">
-  [![Spotify](https://spotify-playing-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)
+  [![Spotify](https://spotify-readme-api.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)
 </p>
 <!--<p align='center'>
    <a target="_blank" href="https://spotify-playing-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)"> 
