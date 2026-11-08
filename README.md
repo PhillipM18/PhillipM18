@@ -3,7 +3,7 @@
 <h2>Spotify Playing 🎧</h2>
 
 &nbsp;<p align="center">
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxvvd43i44seeq6djmru6r3pni&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxvvd43i44seeq6djmru6r3pni&redirect=true)
+ [![spotify-playing](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxvvd43i44seeq6djmru6r3pni&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wxvvd43i44seeq6djmru6r3pni&redirect=true)
 </p>
 <!--<p align='center'>
    <a target="_blank" href="https://spotify-playing-henna.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff(https://open.spotify.com/user/31wxvvd43i44seeq6djmru6r3pni)"> 
